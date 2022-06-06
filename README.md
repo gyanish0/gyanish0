@@ -1,8 +1,7 @@
-# Mega Quiz Hub with React JS, Material UI and Chart JS
+# Front-End Engineer
 
-## Demo
 
-#### Here is a working live demo :  (https://gyanish.netlify.app/)
+#### Here is a working live portfolio demo :  (https://gyanish.netlify.app/)
 
 ## Built with
 
