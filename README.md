@@ -1,5 +1,7 @@
 # Front-End Engineer
-
+  Hello There 👋, I am
+Gyanish Shrivastava.
+I love experimenting with the web.
 
 #### Here is a working live portfolio demo :  (https://gyanish.netlify.app/)
 
