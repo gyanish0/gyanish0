@@ -2,6 +2,18 @@
 
 <h1 align="center"><a href="#"><img width="200" height="200" src="https://i.imgur.com/799y5A3.png"/></a></h1>
 
+
+<br>
+<br>
+
+My name is GYANISH SHRIVASTAVA and I am currently working as Front-End Software Developer Engineer at Luminoguru Pvt. Ltd. I completed my degree in Bachelor of Technology in Information Technology from Dr. A.P.J. Abdul Kalam Technical University. I am much interested in developing new things which excite me a lot. :)
+
+I love exploring new technologies and being a practitioner, I like to stay on top of latest trends. I try to leave every line of code I write more readable, accessible, and modular.
+
+<br>
+<br>
+
+
 # Front-End Engineer
 Hello There 👋, I am Gyanish Shrivastava. I love experimenting with the web.
 
@@ -53,11 +65,11 @@ Hello There 👋, I am Gyanish Shrivastava. I love experimenting with the web.
 
 ## 📊 My Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyanish0&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/gyanish0)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyanish0&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyanish0&layout=compact)](https://github.com/gyanish0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyanish0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Gyanish's github activity graph](https://activity-graph.herokuapp.com/graph?username=gyanish0&theme=react-dark)](https://github.com/gyanish0)
+[![Gyanish's github activity graph](https://activity-graph.herokuapp.com/graph?username=gyanish0&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
