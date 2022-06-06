@@ -26,7 +26,7 @@ Hello There 👋, I am Gyanish Shrivastava. I love experimenting with the web.
 
 ## LuminoGuru Pvt. Ltd.
     Work as a front-end developer. my day-to-day task is to develop the UI and also integrate the functionality to make a interactive website with the help of ReactJs.
-###  `30-03-2022-Present`
+###  `30-03-2022 To Present`
 
 
 
