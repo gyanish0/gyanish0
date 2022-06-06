@@ -9,7 +9,7 @@ Hello There 👋, I am Gyanish Shrivastava. I love experimenting with the web.
     This is my personal website. I am working on this website to make it more interactive and user friendly.
     
 #### Here is a working live portfolio demo :  (https://gyanish.netlify.app/)
-## I am Skilled With
+## I am Skilled With 🚀
 
 - [React JS](https://reactjs.org/)
 - [Material-UI](https://v4.mui.com/)
@@ -51,6 +51,8 @@ Hello There 👋, I am Gyanish Shrivastava. I love experimenting with the web.
 - [Instagram](https://www.instagram.com/gyanishd)
 - [Linkedin](https://www.linkedin.com/in/gyanish-shrivastava-153582137)
 
+
+[![Gyanish's github activity graph](https://activity-graph.herokuapp.com/graph?username=gyanish0&theme=react-dark)](https://github.com/gyanish0)
 
 
 
