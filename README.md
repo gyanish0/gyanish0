@@ -1,8 +1,10 @@
 # Front-End Engineer
 Hello There 👋, I am Gyanish Shrivastava. I love experimenting with the web.
 
+## [Gyanish.netlify.app](https://gyanish.netlify.app/)
+    This is my personal website. I am working on this website to make it more interactive and user friendly.
+    
 #### Here is a working live portfolio demo :  (https://gyanish.netlify.app/)
-
 ## I am Skilled With
 
 - [React JS](https://reactjs.org/)
@@ -27,8 +29,7 @@ Hello There 👋, I am Gyanish Shrivastava. I love experimenting with the web.
 ###  `30-03-2022-Present`
 
 
-## [Gyanish.netlify.app](https://gyanish.netlify.app/)
-    This is my personal website. I am working on this website to make it more interactive and user friendly.
+
 
 
 ## Project Links
@@ -36,7 +37,7 @@ Hello There 👋, I am Gyanish Shrivastava. I love experimenting with the web.
 - [Crypto Tracker](https://crypto-tracker-gyanish.netlify.app/)
 - [Mega Quiz Hub](https://mega-quiz-hub.netlify.app/)
 - [Dictionary](https://gyanish-dictionary.netlify.app/)
-More Cooking.....
+## `More Cooking.....`
 ## Contact Me
 
 - [Email](srivastavagyanish@gmail.com)
