@@ -3,9 +3,16 @@
 
 #### Here is a working live portfolio demo :  (https://gyanish.netlify.app/)
 
-## Built with
+## I am Skilled With
 
 - [React JS](https://reactjs.org/)
+- [Material-UI](https://v4.mui.com/)
+- [JavaScript](https://www.javascript.com/)
+- [HTML 5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS 3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [React Native](https://reactnative.dev/)
+- [Figma](https://www.figma.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
 ## Made with ♥ By [Gyanish Shrivastava](https://github.com/gyanish0)
 
