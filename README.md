@@ -51,6 +51,11 @@ Hello There 👋, I am Gyanish Shrivastava. I love experimenting with the web.
 - [Instagram](https://www.instagram.com/gyanishd)
 - [Linkedin](https://www.linkedin.com/in/gyanish-shrivastava-153582137)
 
+## 📊 My Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyanish0&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/gyanish0)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyanish0&layout=compact)](https://github.com/gyanish0)
 
 [![Gyanish's github activity graph](https://activity-graph.herokuapp.com/graph?username=gyanish0&theme=react-dark)](https://github.com/gyanish0)
 
