@@ -18,13 +18,13 @@
 ## Work Experience 
 
 ## [Mobiloitte Technology]
-   - Work as a software trainee for three month after three month i get OnBoard as react developer to develop the responsive website with api intigration.
-   28-09-2021 To 20-03-2022
+   Work as a software trainee for three month after three month i get OnBoard as react developer to develop the responsive website with api intigration.
+  ## `28-09-2021 To 20-03-2022`
 
 
 ## [LuminoGuru Pvt. Ltd.]
-    - Work as a front-end developer. my day-to-day task is to develop the UI and also integrate the functionality to make a interactive website with the help of ReactJs.
-        30-03-2022-Present
+    Work as a front-end developer. my day-to-day task is to develop the UI and also integrate the functionality to make a interactive website with the help of ReactJs.
+###  `30-03-2022-Present`
 
 
 
