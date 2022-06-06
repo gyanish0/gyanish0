@@ -29,7 +29,7 @@
 ## Contact Me
 
 - [Email](srivastavagyanish@gmail.com)
-- [Phone](tel:7784855635)
+- [Phone](7784855635)
 - [Whatsapp](https://wa.me/7784855635)
 - [Twitter](https://www.twitter.com/srivastavgyani1)
 - [Instagram](https://www.instagram.com/gyanishd)
