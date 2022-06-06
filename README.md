@@ -6,16 +6,16 @@
 <br>
 <br>
 
-My name is GYANISH SHRIVASTAVA and I am currently working as Front-End Software Developer Engineer at Luminoguru Pvt. Ltd. I completed my degree in Bachelor of Technology in Information Technology from Dr. A.P.J. Abdul Kalam Technical University. I am much interested in developing new things which excite me a lot. :)
 
-I love exploring new technologies and being a practitioner, I like to stay on top of latest trends. I try to leave every line of code I write more readable, accessible, and modular.
 
 <br>
 <br>
 
 
 # Front-End Engineer
-Hello There 👋, I am Gyanish Shrivastava. I love experimenting with the web.
+👋 My name is GYANISH SHRIVASTAVA and I am currently working as Front-End Software Developer Engineer at Luminoguru Pvt. Ltd. I completed my degree in Bachelor of Technology in Information Technology from Dr. A.P.J. Abdul Kalam Technical University. I am much interested in developing new things which excite me a lot. :)
+
+I love exploring new technologies and being a practitioner, I like to stay on top of latest trends. I try to leave every line of code I write more readable, accessible, and modular.
 
 ## [Gyanish.netlify.app](https://gyanish.netlify.app/)
     This is my personal website. I am working on this website to make it more interactive and user friendly.
