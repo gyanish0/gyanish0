@@ -93,7 +93,7 @@ Work as a software trainee for three month after three month i get OnBoard as re
 - [Linkedin](https://www.linkedin.com/in/gyanish-shrivastava-153582137)
 
 <br/>
-![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/91131495?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d)
+<img height="auto" width="200" style="border-radius:50%" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/91131495?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d"/>
 
 ## Made with ♥ By [Gyanish Shrivastava](https://github.com/gyanish0)
 
