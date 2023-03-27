@@ -92,6 +92,9 @@ Work as a software trainee for three month after three month i get OnBoard as re
 - [Instagram](https://www.instagram.com/gyanishd)
 - [Linkedin](https://www.linkedin.com/in/gyanish-shrivastava-153582137)
 
+<br/>
+<img width="200" height="200" style="border-radius:50%" src="https://avatars.githubusercontent.com/u/91131495?v=4"/>
+
 ## Made with ♥ By [Gyanish Shrivastava](https://github.com/gyanish0)
 
 <!-- [![Gyanish Shrivastava](https://avatars.githubusercontent.com/u/91131495?v=4)](https://github.com/gyanish0) -->
