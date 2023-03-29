@@ -80,7 +80,8 @@ Work as a software trainee for three month after three month i get OnBoard as re
 - [Crypto Tracker](https://crypto-tracker-gyanish.netlify.app/)
 - [Mega Quiz Hub](https://mega-quiz-hub.netlify.app/)
 - [Dictionary](https://gyanish-dictionary.netlify.app/)
-
+- [Tech Blog](https://gyanish-blog.vercel.app/)
+    
 ## `More Cooking.....`
 
 ## Contact Me
