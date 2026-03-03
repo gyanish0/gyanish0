@@ -101,13 +101,19 @@ Inventory and accounting solution for small business owners with vendor and invo
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyanish0&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=gyanish0&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanish0&theme=vision-friendly-dark&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanish0&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gyanish0&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gyanish0&theme=tokyonight" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gyanish0&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gyanish0&theme=tokyonight&utcOffset=5.5" />
+</p>
 
 ---
 
