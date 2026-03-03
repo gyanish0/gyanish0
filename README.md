@@ -1,103 +1,116 @@
-<h1 align="center">Hi there! 👋 I'm Gyanish Shrivastava</h1>
+<div align="center">
 
-<p align="center">
-Frontend Developer | React.js Specialist | 2+ Years Experience
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=200&section=header&text=Gyanish%20Shrivastava&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<h1 align="center">
-  <a href="https://github.com/gyanish0">
-    <img width="200" height="200" src="https://i.imgur.com/799y5A3.png"/>
-  </a>
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineer+@+TCS;3.5%2B+Years+Experience;React.js+%7C+Next.js+Specialist;Building+Scalable+Enterprise+Systems"/>
+
+</div>
 
 ---
 
-# 💫 About Me:
+## 🧑‍💻 About Me
 
-I'm **Gyanish Shrivastava**, a Frontend Developer with 2+ years of experience building scalable, enterprise-level web applications.
+Frontend-focused **Software Engineer with 3.5+ years of experience** building scalable, enterprise and SaaS platforms.
 
-🔹 Currently working as **Frontend Developer (ReactJs)** at **BlackRock IT Solutions** (Since June 2024)  
-🔹 Previously worked as **Associate Software Engineer (ReactJs)** at **LuminoGuru Pvt. Ltd.** (March 2022 – June 2024)  
-🔹 B.Tech in Information Technology from Dr. A.P.J. Abdul Kalam Technical University (2017–2021)  
-🔹 Based in Hyderabad (Remote)
+Currently working at **TCS** on **GeM (Government e-Marketplace)** – Bid Module.  
+Previously worked at **BlackRock IT Solutions** and **LuminoGuru Pvt. Ltd.**
 
-I enjoy building clean, reusable, and scalable UI systems. I focus on performance, maintainability, and user experience.  
-I actively explore new technologies and continuously improve my development practices.
-
-Currently open to exciting opportunities as a **React JS Developer** 🚀
-
----
-
-# 🌐 Connect With Me:
-
-- 📧 Email: srivastavagyanish@gmail.com  
-- 📱 Phone: +91 7784855635  
-- 💼 LinkedIn: https://linkedin.com/in/gyanish0  
-- 🐙 GitHub: https://github.com/gyanish0  
+I specialize in:
+- Enterprise dashboard systems  
+- Large-scale workflow modules  
+- Reusable component architecture  
+- High-performance React applications  
 
 ---
 
-# 💻 Tech Stack:
+## 🏛 Current Project
 
-### Frontend
-React.js • Next.js • React Native • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS • SCSS • Bootstrap • Material UI • Redux • Context API
+### 🔹 GeM – Government e-Marketplace (TCS)
 
-### Backend & APIs
-RESTful APIs • API Integration • Swagger
+Working on the **Bid Module** for India’s national procurement platform.
 
-### Tools & Platforms
-Git • GitHub • GitLab • VS Code • Jira • Trello • Figma • NPM • Yarn • Linux
+Key Contributions:
+- Dynamic bid creation & editing workflows  
+- Multi-role approval logic  
+- Complex validation systems  
+- Data-heavy tables with performance optimization  
+- Structured, scalable frontend architecture  
 
 ---
 
-# 🚀 Key Projects
-
-### 🔹 Postkodes
-SaaS logistics platform for shipment management and parcel tracking.  
-Built features like shipment creation, tracking, document printing, scanning, and workflow automation.
-
-### 🔹 Archer Intranet
-Employee review system with role-based access (Admin, Manager, Employee).  
-Implemented review templates, scheduling, performance tracking, and feedback workflows.
+## 🚀 Previous Enterprise Projects
 
 ### 🔹 ALTITUDE (HybridChart)
-Enterprise healthcare management platform for managing multiple medical practices, revenue cycle management, and EHR integration.
+Enterprise healthcare platform managing multiple medical practices.  
+Built dashboards, revenue cycle modules, analytics views, and EHR-integrated UI systems.
 
 ### 🔹 SWITCHBOARD (HybridChart)
-Reseller dashboard for onboarding and managing multiple healthcare client practices with license tracking and invoicing.
+Reseller management system for onboarding and managing client practices.  
+Implemented license tracking, billing dashboards, and structured data reporting modules.
+
+### 🔹 Postkodes
+SaaS logistics platform for shipment creation, tracking, document printing, and scanning workflows.
+
+### 🔹 Archer Intranet
+Role-based employee review system with Admin / Manager / Employee access layers.  
+Developed dynamic review templates, scheduling logic, and performance tracking modules.
 
 ### 🔹 Saciahub
-Role-based employee management system including attendance, leave, salary, and background verification modules.
+Employee management platform including attendance tracking, leave management, salary modules, and verification workflows.
 
 ### 🔹 WakandaBook
-Business management app for small shop owners to manage inventory, vendors, customers, and invoicing.
+Inventory and accounting solution for small business owners with vendor and invoice management.
 
 ---
 
-# 📊 GitHub Stats:
+## ⚙️ Tech Arsenal
 
-![](https://github-readme-stats.vercel.app/api?username=gyanish0&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=gyanish0&theme=vue-dark&hide_border=false)
+### 🚀 Frontend Core
+![React](https://img.shields.io/badge/React-0f0f0f?style=for-the-badge&logo=react&logoColor=00F7FF)
+![Next JS](https://img.shields.io/badge/Next.js-0f0f0f?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f0f0f?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0f0f?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React Native](https://img.shields.io/badge/React%20Native-0f0f0f?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gyanish0&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🧩 State & Architecture
+![Redux](https://img.shields.io/badge/Redux-0f0f0f?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Context API](https://img.shields.io/badge/Context%20API-0f0f0f?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REST API](https://img.shields.io/badge/REST%20API-0f0f0f?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🎨 UI & Styling
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f0f0f?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![SCSS](https://img.shields.io/badge/SCSS-0f0f0f?style=for-the-badge&logo=sass&logoColor=CC6699)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0f0f0f?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Material UI](https://img.shields.io/badge/MUI-0f0f0f?style=for-the-badge&logo=mui&logoColor=007FFF)
+![Semantic UI](https://img.shields.io/badge/Semantic_UI-0f0f0f?style=for-the-badge&logo=semanticuireact&logoColor=35BDB2)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-0f0f0f?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-0f0f0f?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
+![Jira](https://img.shields.io/badge/Jira-0f0f0f?style=for-the-badge&logo=jira&logoColor=0052CC)
+![Linux](https://img.shields.io/badge/Linux-0f0f0f?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Figma](https://img.shields.io/badge/Figma-0f0f0f?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Swagger](https://img.shields.io/badge/Swagger-0f0f0f?style=for-the-badge&logo=swagger&logoColor=85EA2D)
+
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
-![](https://github-profile-trophy.vercel.app/?username=gyanish0&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=gyanish0&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanish0&theme=vision-friendly-dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanish0&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
 
-# ✍️ Developer Mindset
-
-I believe in:
-- Writing clean and maintainable code
-- Building reusable components
-- Following scalable architecture
-- Continuous learning and improvement
+</div>
 
 ---
 
-⭐ If you like my work, feel free to connect or collaborate!
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=120&section=footer"/>
+</div>
